@@ -1,0 +1,17 @@
+h1 { font-family: 'Roboto Slab', serif;
+font-family: 'Cinzel', serif;
+font-family: 'Cormorant Garamond', serif;
+}
+p {font-family: 'Roboto Slab', serif; font-size:25px ; font-weight: 500;
+}
+image{
+    position: relative;
+    background-image:url(images/header.png);
+}
+{
+    left: 50%;
+    margin-left: -500px;
+    background:url(images/logo.png) no-repeat;
+    width:1000px;
+    height:200px;
+}
